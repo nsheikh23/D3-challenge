@@ -216,7 +216,7 @@ d3.csv("assets/data/data.csv").then(function(data, err) {
     var circles = circlesGroup.append("circle")
       .attr("cx", d => xLinearScale(d[chosenXAxis]))
       .attr("cy", d => yLinearScale(d[chosenYAxis]))
-      .attr("r", 20)
+      .attr("r", 15)
       .classed('stateCircle', true);
 
     // append text inside circles
