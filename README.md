@@ -12,7 +12,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Task
 
-![Scatter Plot](Images/scatter.jpg)
+![Scatter Plot](Images/Scatter.PNG)
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
