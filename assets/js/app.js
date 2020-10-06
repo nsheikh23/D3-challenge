@@ -44,7 +44,7 @@ function xScale(data, chosenXAxis) {
 function yScale(data, chosenYAxis) {
     // create scales
     var yLinearScale = d3.scaleLinear()
-      .domain([d3.min(data, d => d[chosenYAxis])-1,d3.max(data, d => d[chosenYAxis])+1])
+      .domain([d3.min(data, d => d[chosenYAxis])-2,d3.max(data, d => d[chosenYAxis])+2])
       .range([height, 0]);
   
     return yLinearScale;
