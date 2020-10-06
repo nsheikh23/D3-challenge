@@ -14,12 +14,6 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ![Scatter Plot](Images/scatter.jpg)
 
-- - -
-
-### Bonus: Impress the Boss (Optional Assignment)
-
-Why make a static graphic when D3 lets you interact with your data?
-
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
 #### 1. More Data, More Dynamics
