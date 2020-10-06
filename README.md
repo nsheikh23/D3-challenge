@@ -12,7 +12,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Task
 
-![4-scatter](Images/scatter.jpg)
+![Scatter Plot](Images/scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
