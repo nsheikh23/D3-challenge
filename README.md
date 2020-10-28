@@ -29,7 +29,3 @@ In another interesting analysis, it can be seen from the Age vs. Smokes that maj
 
 As for obesity, there is a negative correlation with median household income. At first, it seems strange there is a higher obesity percentage with lower household income. However, diving deeper, it kind of makes sense. People with higher household income may be more self conscious about their health, their diet and fitness. They are able to afford eating healthier and joining fitness programs. Whereas, lower income households do not have that luxury, and they can only afford fastfood restaurants and lower quality foods that lead to obesity. Moreover, they
 may not have the time or financial means to think of fitness as they are always focused on surviving.
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
