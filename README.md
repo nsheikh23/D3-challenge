@@ -1,8 +1,8 @@
 # D3-challenge
 
-![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
-
 #### -- Project Status: [Completed]
+
+![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Project Objective
 The purpose of this project is to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings.
