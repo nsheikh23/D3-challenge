@@ -2,11 +2,20 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Overview
+#### -- Project Status: [Completed]
 
-Analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings.
+## Project Objective
+The purpose of this project is to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings.
 
 The data set is based on 2014 ACS 1-year estimates from U.S. Census Bueau and the Behavioral Risk Factor Surveillance System: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+
+## Methods Used
+* Data Visualization
+
+## Technologies
+* JavaScript
+* D3
+* HTML, CSS
 
 ## Task
 Constructed an interactive scatter plot that displayed relationships between all the factors recorded in the data provided. For details on each scatter point, a tooltip was added. 
